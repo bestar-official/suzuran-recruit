@@ -44,7 +44,7 @@ a {
 /* 
 .btn01{
     width: 49.2%;
-    /* bottom: 20px;  */
+    /* bottom: 20px;  
 }
 
 .btn02{
@@ -57,6 +57,8 @@ a {
 
 .contents01 {
     width: 100%;
+    margin-bottom: 120px;
+
 }
 
 .contents1 {
@@ -73,6 +75,8 @@ a {
 
 .contents03 {
     width: 100%;
+    margin-top: 100px;    
+    margin-bottom: 100px;  
 }
 
 .contents3 {
@@ -89,19 +93,21 @@ a {
 
 .contents05 {
     width: 100%;
+    margin-top: 100px; 
+    margin-bottom: 55px; 
 }
 
 .contents5 {
     width: 100%;
 }
 
-.contents06 {
+/* .contents06 {
     width: 100%;
 }
 
 .contents6 {
     width: 100%;
-}
+} */
 /* 
 .contents04 {
     position: relative;
